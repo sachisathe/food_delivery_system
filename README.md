@@ -1,2 +1,14 @@
 # food_delivery_system
-The Food Delivery System Web Interface is a simple website created using HTML and CSS. It includes pages like Home, Menu, Order, Login, and Contact. The project demonstrates basic web design, page navigation, and a user-friendly interface for ordering food online. 🍔🍕
+Food Delivery System – Web Interface
+
+This project is a simple food delivery website interface developed using HTML and CSS.
+
+Pages Included:
+1. Home Page
+2. Menu Page
+3. Order Page
+4. Login Page
+5. Contact Page
+
+Purpose:
+To demonstrate a basic web interface similar to an online food ordering system.
